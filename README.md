@@ -4,7 +4,7 @@ Project Highlight：AI 驅動的Scrum闖關平台，展現 AI Agentic Workflow �
 # PM Logic Quiz: AI-Driven Agile Gamification Platform
 > [!IMPORTANT]
 > **🎮 [點擊此處開始闖關 https://tiny-malabi-d5a440.netlify.app/**
-> *請確保已將專案部署至 Vercel 或 GitHub Pages 以取得網址*
+
 ## 專案簡介 (Project Overview)
 這是一個結合 **Scrum/Agile 專案管理實務** 的互動式闖關問答遊戲。本專案展示了如何運用 **AI Agentic Workflow** 進行全端開發，從需求分析、UI 設計到後端資料庫串接，實現高效且現代化的 Web 應用架構。
 ## 關鍵技術與工具 (Tech Stack & Tools)
